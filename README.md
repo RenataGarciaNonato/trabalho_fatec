@@ -1,4 +1,6 @@
 # trabalho_fatec
 trabalhos da faculdade
 
-Teste
+*Renata Garcia Nonato
+
+*Banco de Dados 2° semestre
