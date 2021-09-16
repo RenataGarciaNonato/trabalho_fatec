@@ -9,7 +9,7 @@ trabalhos da faculdade
 ## :computer: Tecnologias utilizadas 
 <div class="tecnologias" style= "text-align:justify">
 
--IDE Eclipse || Java
+- IDE Eclipse || Java
 
 - Banco de Dados: MySQL
 
