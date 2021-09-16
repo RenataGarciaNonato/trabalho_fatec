@@ -6,7 +6,7 @@ Trabalhos da faculdade
 - Banco de Dados 2° semestre
 
 <br>
-## :computer: Tecnologias utilizadas 
+ :computer: Tecnologias utilizadas 
 <div class="tecnologias" style= "text-align:justify">
 
 - IDE Eclipse || Java
