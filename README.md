@@ -1,9 +1,9 @@
-# trabalho_fatec
-trabalhos da faculdade
+# Trabalho_fatec
+Trabalhos da faculdade
 
-*Renata Garcia Nonato
+- Renata Garcia Nonato
 
-*Banco de Dados 2° semestre
+- Banco de Dados 2° semestre
 
 <br>
 ## :computer: Tecnologias utilizadas 
