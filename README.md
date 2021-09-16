@@ -14,10 +14,6 @@ Trabalhos da faculdade
 - Banco de Dados: MySQL
 
 </div>
-
-<div>
- # FRAME ! <img src= "crud_foto.fpg">
-</div>
 </br>
 
 
